@@ -8,3 +8,4 @@ class Artist
   
 end 
 
+artist.name = "Beyonce"
