@@ -7,5 +7,9 @@ class Post
     @author = author 
   end 
   
-  def 
+  def title
+    title = "Hello World"
+  end 
+  
+  
 end 
