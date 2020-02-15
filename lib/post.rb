@@ -11,5 +11,9 @@ class Post
     title = "Hello World"
   end 
   
+  def author 
+    author = Author.new 
+  end 
   
+  def 
 end 
