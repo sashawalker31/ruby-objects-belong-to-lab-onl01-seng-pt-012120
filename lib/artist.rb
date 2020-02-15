@@ -10,4 +10,5 @@ end
 
 Artist.new("Beyonce")
 
+
 #drake = Artist.new("Drake", "rap")
