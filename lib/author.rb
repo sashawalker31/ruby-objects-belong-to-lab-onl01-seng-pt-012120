@@ -6,4 +6,8 @@ class Author
   end 
 end 
 
-author.name = "Uncle Bob"
+uncle bob = Author.new("Uncle Bob")
+
+#drake = Artist.new("Drake", "rap")
+
+#author.name = "Uncle Bob"
