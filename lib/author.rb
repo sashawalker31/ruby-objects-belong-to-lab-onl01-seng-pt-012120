@@ -6,4 +6,4 @@ class Author
   end 
 end 
 
-author.name = ""
+author.name = "Uncle Bob"
