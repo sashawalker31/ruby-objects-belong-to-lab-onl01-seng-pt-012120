@@ -6,7 +6,7 @@ class Author
   end 
 end 
 
-uncle bob = Author.new("Uncle Bob")
+Author.new("Uncle Bob")
 
 #drake = Artist.new("Drake", "rap")
 
